@@ -1,0 +1,7 @@
+/* Iteration 2: Style the coloring buttons */
+input{ 
+    width:100px;
+      height:100px;
+      border-radius: 4px;
+      margin-bottom:4px;
+    }
